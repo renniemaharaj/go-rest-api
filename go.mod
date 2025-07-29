@@ -1,4 +1,4 @@
-module github.com/qiangxue/go-rest-api
+module github.com/renniemaharaj/go-rest-api
 
 go 1.13
 
